@@ -64,3 +64,9 @@ footer {
   font-size: 0.9rem;
   color: #666;
 }
+
+#about p,
+#experience p,
+#experience ul li {
+  text-align: justify;
+}
